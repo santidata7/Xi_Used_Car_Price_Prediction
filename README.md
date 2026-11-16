@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="xi_precio-autos" src="https://github.com/user-attachments/assets/956ffa5f-970d-4203-aac8-2fd836446c74" />
 # Xi_Used_Car_Price_Prediction
 
 ## Descripción del Proyecto
